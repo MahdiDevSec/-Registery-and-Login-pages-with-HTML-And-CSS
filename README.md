@@ -19,7 +19,7 @@ The Register Page
   
 ## **use Case**
  
-## This project is perfect for:
+### This project is perfect for:
 
 - Designers looking for inspiration for user interface design.
 + Developers interested in learning how to create functional interfaces with pure HTML and CSS.
